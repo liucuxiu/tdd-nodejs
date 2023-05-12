@@ -40,7 +40,7 @@
       "jest": true
     },
     "rules": {
-      "semi": "warn",
+      "semi": "error",
       "quotes": [
         "warn",
         "single"
